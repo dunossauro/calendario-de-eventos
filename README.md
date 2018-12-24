@@ -25,7 +25,7 @@
 | -|-|-|-|-|-|- |
 |0|0|0|0|1|2|3|
 |4|5|6|7|8|9|10|
-|11|12|13 <br> Campus Party|14<br> Campus Party|15<br> Campus Party|16<br> Campus Party|17|
+|11|12 <br> Campus Party|13 <br> Campus Party|14<br> Campus Party|15<br> Campus Party|16<br> Campus Party|17 <br> Campus Party|
 |18|19|20|21|22|23|24|
 |25|26|27|28|0|0|0|
 
@@ -74,8 +74,8 @@
 
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
-|0|0|1|2|3|4|5|
-|6|7|8|9|10|11|12|
+|0|0|1<br> PyCon Cleveland|2 <br> PyCon Cleveland|3 <br> PyCon Cleveland|4 <br> PyCon Cleveland|5 <br> PyCon Cleveland|
+|6 <br> PyCon Cleveland|7 <br> PyCon Cleveland|8 <br> PyCon Cleveland|9 <br> PyCon Cleveland|10|11|12|
 |13|14|15|16|17|18|19|
 |20|21|22|23|24|25|26|
 |27|28|29|30|31|0|0|
