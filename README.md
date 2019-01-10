@@ -60,7 +60,7 @@
 |1|2|3|4|5|6|7|
 |8|9|10|11|12|13 <br> [Roadsec Campinas - SP](https://roadsec.com.br/)|14|
 |15|16|17|18|19|20|21|
-|22|23 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|24 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|25 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|26 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)<br> [Python sudeste](https://2019.pythonsudeste.org/)|27 <br> TDC - SC <br> [Roadsec Fortaleza - CE](https://roadsec.com.br/)<br> [Python sudeste](https://2019.pythonsudeste.org/)|28<br> Python sudeste|
+|22|23 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|24 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|25 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|26 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)<br> [Python sudeste](https://2019.pythonsudeste.org/)|27 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Roadsec Fortaleza - CE](https://roadsec.com.br/)<br> [Python sudeste](https://2019.pythonsudeste.org/)|28<br> Python sudeste|
 |29|30|0|0|0|0|0|
 
 
@@ -74,8 +74,8 @@
 
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
-|0|0|1 <br> PyCon Cleveland|2 <br> PyCon Cleveland|3 <br> PyCon Cleveland|4 <br> PyCon Cleveland <br> [Roadsec São José do Rio Preto - SP](https://roadsec.com.br/)|5 <br> PyCon Cleveland|
-|6 <br> PyCon Cleveland|7 <br> PyCon Cleveland|8 <br> PyCon Cleveland|9 <br> PyCon Cleveland|10|11 <br> Roadsec Belém - PA|12|
+|0|0|1 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|2 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|3 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|4 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) <br> [Roadsec São José do Rio Preto - SP](https://roadsec.com.br/)|5 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|
+|6 <br> PyCon Cleveland|7 <br> PyCon Cleveland|8 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|9 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|10|11 <br> [Roadsec Belém - PA](https://roadsec.com.br/)|12|
 |13|14|15|16|17|18 <br> [Roadsec Rio de Janeiro - RJ](https://roadsec.com.br/)|19|
 |20|21|22|23|24|25 <br> [Roadsec João Pessoa - PB](https://roadsec.com.br/)|26|
 |27|28|29|30|31|0|0|
@@ -144,7 +144,7 @@
 | -|-|-|-|-|-|- |
 |0|0|0|0|0|0|1|
 |2|3|4|5|6|7|8|
-|9|10|11<br> TDC - PE|12<br> [TDC - PE](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|13<br> TDC - PE|14|15|
+|9|10|11<br> [TDC - PE](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|12<br> [TDC - PE](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|13<br> [TDC - PE](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|14|15|
 |16|17|18|19|20|21|22|
 |23|24|25|26|27|28|29|
 |30|0|0|0|0|0|0|
