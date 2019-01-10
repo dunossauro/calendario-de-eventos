@@ -9,7 +9,7 @@
 |0|1|2|3|4|5|6|
 |7|8|9|10|11|12|13|
 |14|15|16|17|18|19|20|
-|21|22|23|24|25|26 <br> Pycommunities Experience - BH|27|
+|21|22|23|24|25|26 <br> [Pycommunities Experience - BH](https://www.meetup.com/pt-BR/PythonMG/events/257193061/)|27|
 |28|29|30|31|0|0|0|
 
 
@@ -25,7 +25,7 @@
 | -|-|-|-|-|-|- |
 |0|0|0|0|1|2|3|
 |4|5|6|7|8|9|10|
-|11|12 <br> Campus Party|13 <br> Campus Party|14<br> Campus Party|15<br> Campus Party|16<br> Campus Party|17 <br> Campus Party|
+|11|12 <br> [Campus Party](https://brasil.campus-party.org/)|13 <br> [Campus Party](https://brasil.campus-party.org/)|14<br> [Campus Party](https://brasil.campus-party.org/)|15<br> [Campus Party](https://brasil.campus-party.org/)|16<br> [Campus Party](https://brasil.campus-party.org/)|17 <br> [Campus Party](https://brasil.campus-party.org/)|
 |18|19|20|21|22|23|24|
 |25|26|27|28|0|0|0|
 
@@ -58,9 +58,9 @@
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
 |1|2|3|4|5|6|7|
-|8|9|10|11|12|13 <br> Roadsec Campinas - SP|14|
+|8|9|10|11|12|13 <br> [Roadsec Campinas - SP](https://roadsec.com.br/)|14|
 |15|16|17|18|19|20|21|
-|22|23 <br> TDC - SC|24 <br> TDC - SC|25 <br> TDC - SC|26 <br> TDC - SC<br> Python sudeste|27 <br> TDC - SC <br> Roadsec Fortaleza - CE<br> Python sudeste|28<br> Python sudeste|
+|22|23 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|24 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|25 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|26 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)<br> [Python sudeste](https://2019.pythonsudeste.org/)|27 <br> TDC - SC <br> [Roadsec Fortaleza - CE](https://roadsec.com.br/)<br> [Python sudeste](https://2019.pythonsudeste.org/)|28<br> Python sudeste|
 |29|30|0|0|0|0|0|
 
 
@@ -74,10 +74,10 @@
 
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
-|0|0|1 <br> PyCon Cleveland|2 <br> PyCon Cleveland|3 <br> PyCon Cleveland|4 <br> PyCon Cleveland <br> Roadsec São José do Rio Preto - SP|5 <br> PyCon Cleveland|
+|0|0|1 <br> PyCon Cleveland|2 <br> PyCon Cleveland|3 <br> PyCon Cleveland|4 <br> PyCon Cleveland <br> [Roadsec São José do Rio Preto - SP](https://roadsec.com.br/)|5 <br> PyCon Cleveland|
 |6 <br> PyCon Cleveland|7 <br> PyCon Cleveland|8 <br> PyCon Cleveland|9 <br> PyCon Cleveland|10|11 <br> Roadsec Belém - PA|12|
-|13|14|15|16|17|18 <br> Roadsec Rio de Janeiro - RJ|19|
-|20|21|22|23|24|25 <br> Roadsec João Pessoa - PB|26|
+|13|14|15|16|17|18 <br> [Roadsec Rio de Janeiro - RJ](https://roadsec.com.br/)|19|
+|20|21|22|23|24|25 <br> [Roadsec João Pessoa - PB](https://roadsec.com.br/)|26|
 |27|28|29|30|31|0|0|
 
 
@@ -91,11 +91,11 @@
 
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
-|0|0|0|0|0|1 <br> Roadsec Goiânia - GO|2|
-|3|4|5|6|7|8 <br> Roadsec Presidente Prudente - SP|9|
-|10|11|12|13|14|15 <br> Roadsec Florianópolis - SC|16|
+|0|0|0|0|0|1 <br> [Roadsec Goiânia - GO](https://roadsec.com.br/)|2|
+|3|4|5|6|7|8 <br> [Roadsec Presidente Prudente - SP](https://roadsec.com.br/)|9|
+|10|11|12|13|14|15 <br> [Roadsec Florianópolis - SC](https://roadsec.com.br/)|16|
 |17|18|19|20|21|22|23|
-|24<br> TDC - SP|25<br> TDC - SP|26<br> TDC - SP|27<br> TDC - SP|28<br> TDC - SP|29 <br> Roadsec Belo Horizonte - MG|30|
+|24<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|25<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|26<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|27<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|28<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|29 <br> [Roadsec Belo Horizonte - MG](https://roadsec.com.br/)|30|
 
 
 
@@ -144,7 +144,7 @@
 | -|-|-|-|-|-|- |
 |0|0|0|0|0|0|1|
 |2|3|4|5|6|7|8|
-|9|10|11<br> TDC - PE|12<br> TDC - PE|13<br> TDC - PE|14|15|
+|9|10|11<br> TDC - PE|12<br> [TDC - PE](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|13<br> TDC - PE|14|15|
 |16|17|18|19|20|21|22|
 |23|24|25|26|27|28|29|
 |30|0|0|0|0|0|0|
@@ -180,7 +180,7 @@
 |0|0|0|0|1|2|3|
 |4|5|6|7|8|9|10|
 |11|12|13|14|15|16|17|
-|18|19|20|21|22|23 <br> Roadsec São Paulo - SP|24|
+|18|19|20|21|22|23 <br> [Roadsec São Paulo - SP](https://roadsec.com.br/)|24|
 |25|26|27|28|29|30|0|
 
 
