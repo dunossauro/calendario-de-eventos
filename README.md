@@ -1,4 +1,4 @@
-
+﻿
 # Calendario de eventos do ano de 2019
 
 > eventos de tecnologia em todo o país.
@@ -205,4 +205,4 @@
 
 |Eventos ainda sem data|
 |----------------------|
-| |
+|TDC - RS|
