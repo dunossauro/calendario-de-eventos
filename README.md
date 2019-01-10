@@ -60,7 +60,7 @@
 |1|2|3|4|5|6|7|
 |8|9|10|11|12|13 <br> Roadsec Campinas - SP|14|
 |15|16|17|18|19|20|21|
-|22|23 <br> TDC - SC|24 <br> TDC - SC|25 <br> TDC - SC|26 <br> TDC - SC|27 <br> TDC - SC <br> Roadsec Fortaleza - CE|28|
+|22|23 <br> TDC - SC|24 <br> TDC - SC|25 <br> TDC - SC|26 <br> TDC - SC<br> Python sudeste|27 <br> TDC - SC <br> Roadsec Fortaleza - CE<br> Python sudeste|28<br> Python sudeste|
 |29|30|0|0|0|0|0|
 
 
