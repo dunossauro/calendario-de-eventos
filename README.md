@@ -94,8 +94,8 @@
 |0|0|0|0|0|1 <br> [Roadsec Goiânia - GO](https://roadsec.com.br/)|2|
 |3|4|5|6|7|8 <br> [Roadsec Presidente Prudente - SP](https://roadsec.com.br/)|9|
 |10|11|12|13|14|15 <br> [Roadsec Florianópolis - SC](https://roadsec.com.br/)|16|
-|17|18|19|20|21|22|23|
-|24<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|25<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|26<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|27<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|28<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|29 <br> [Roadsec Belo Horizonte - MG](https://roadsec.com.br/)|30|
+|17|18|19 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|20 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|21 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|22 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|23 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|
+|24<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|25<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|26 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|27 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|28 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|29 <br> [Roadsec Belo Horizonte - MG](https://roadsec.com.br/)|30|
 
 
 
