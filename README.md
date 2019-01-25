@@ -75,7 +75,7 @@
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
 |0|0|1 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|2 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|3 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|4 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) <br> [Roadsec São José do Rio Preto - SP](https://roadsec.com.br/)|5 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|
-|6 <br> PyCon Cleveland|7 <br> PyCon Cleveland|8 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|9 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|10|11 <br> [Roadsec Belém - PA](https://roadsec.com.br/)|12|
+|6 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) <br> [QCon São Paulo](https://qconsp.com/)|7 <br> PyCon Cleveland <br> [QCon São Paulo](https://qconsp.com/)|8 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) <br> [QCon São Paulo](https://qconsp.com/)|9 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) |10|11 <br> [Roadsec Belém - PA](https://roadsec.com.br/)|12|
 |13|14|15|16|17|18 <br> [Roadsec Rio de Janeiro - RJ](https://roadsec.com.br/)|19|
 |20|21|22|23|24|25 <br> [Roadsec João Pessoa - PB](https://roadsec.com.br/)|26|
 |27|28|29|30|31|0|0|
@@ -92,7 +92,7 @@
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
 |0|0|0|0|0|1 <br> [Roadsec Goiânia - GO](https://roadsec.com.br/)|2|
-|3|4|5|6|7|8 <br> [Roadsec Presidente Prudente - SP](https://roadsec.com.br/)|9|
+|3|4|5 <br> [API Experience](http://www.apix.com.br/)|6 <br> [API Experience](http://www.apix.com.br/)|7|8 <br> [Roadsec Presidente Prudente - SP](https://roadsec.com.br/)|9|
 |10|11|12|13|14|15 <br> [Roadsec Florianópolis - SC](https://roadsec.com.br/)|16|
 |17|18|19 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|20 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|21 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|22 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|23 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|
 |24<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|25<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|26 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|27 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|28 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|29 <br> [Roadsec Belo Horizonte - MG](https://roadsec.com.br/)|30|
@@ -109,8 +109,8 @@
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
 |1|2|3|4|5|6|7|
-|8|9|10|11|12|13|14|
-|15|16|17|18|19|20|21|
+|8|9|10|11|12|13|14 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|
+|15 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|16 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|17 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|18 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|19|20|21|
 |22|23|24|25|26|27|28|
 |29|30|31|0|0|0|0|
 
@@ -127,7 +127,7 @@
 | -|-|-|-|-|-|- |
 |0|0|0|1|2|3|4|
 |5|6|7|8|9|10|11|
-|12|13|14|15|16|17|18|
+|12|13|14|15|16 <br> [DevCamp](http://www.devcamp.com.br/)|17|18|
 |19|20|21|22|23|24|25|
 |26|27|28|29|30|31|0|
 
@@ -162,7 +162,7 @@
 | -|-|-|-|-|-|- |
 |0|1|2|3|4|5|6|
 |7|8|9|10|11|12|13|
-|14|15|16|17|18|19|20|
+|14|15|16 <br> [IT Forum Expo](https://www.itforumexpo.com.br/)|17 <br> [IT Forum Expo](https://www.itforumexpo.com.br/)|18|19|20|
 |21|22|23|24|25|26|27|
 |28|29|30|31|0|0|0|
 
