@@ -125,7 +125,7 @@
 
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
-|0|0|0|1|2|3|4|
+|0|0|0|1 <br> [PGConf Brasil 2019](https://www.pgconf.com.br/2019)|2 <br> [PGConf Brasil 2019](https://www.pgconf.com.br/2019)|3 <br> [PGConf Brasil 2019](https://www.pgconf.com.br/2019)|4|
 |5|6|7|8|9|10|11|
 |12|13|14|15|16 <br> [DevCamp](http://www.devcamp.com.br/)|17|18|
 |19|20|21|22|23|24|25|
