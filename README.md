@@ -76,8 +76,8 @@
 | -|-|-|-|-|-|- |
 |0|0|1 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|2 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|3 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|4 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) <br> [Roadsec São José do Rio Preto - SP](https://roadsec.com.br/)|5 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|
 |6 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) <br> [QCon São Paulo](https://qconsp.com/)|7 <br> PyCon Cleveland <br> [QCon São Paulo](https://qconsp.com/)|8 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) <br> [QCon São Paulo](https://qconsp.com/)|9 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) |10|11 <br> [Roadsec Belém - PA](https://roadsec.com.br/)|12|
-|13|14|15|16|17|18 <br> [Roadsec Rio de Janeiro - RJ](https://roadsec.com.br/)|19|
-|20|21|22|23|24|25 <br> [Roadsec João Pessoa - PB](https://roadsec.com.br/)|26|
+|13|14|15|16|17 <br> [UXConf BR](https://www.uxconf.com.br/)|18 <br> [Roadsec Rio de Janeiro - RJ](https://roadsec.com.br/) <br> [UXConf BR](https://www.uxconf.com.br/)|19|
+|20|21|22|23|24|25 <br> [Roadsec João Pessoa - PB](https://roadsec.com.br/) <br> Elixir Brasil|26 <br> Elixir Brasil|
 |27|28|29|30|31|0|0|
 
 
@@ -94,8 +94,8 @@
 |0|0|0|0|0|1 <br> [Roadsec Goiânia - GO](https://roadsec.com.br/)|2|
 |3|4|5 <br> [API Experience](http://www.apix.com.br/)|6 <br> [API Experience](http://www.apix.com.br/)|7|8 <br> [Roadsec Presidente Prudente - SP](https://roadsec.com.br/)|9|
 |10|11|12|13|14|15 <br> [Roadsec Florianópolis - SC](https://roadsec.com.br/)|16|
-|17|18|19 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|20 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|21 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|22 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|23 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|
-|24<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|25<br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|26 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|27 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|28 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|29 <br> [Roadsec Belo Horizonte - MG](https://roadsec.com.br/)|30|
+|17|18|19 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|20 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|21 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|22 <br> [Campus Party Brasília](https://brasil.campus-party.org/) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|23 <br> [Campus Party Brasília](https://brasil.campus-party.org/) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|
+|24 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/) |25 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|26 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|27 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/) |28 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|29 <br> [Roadsec Belo Horizonte - MG](https://roadsec.com.br/) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|30 <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|
 
 
 
