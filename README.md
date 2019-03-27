@@ -41,7 +41,7 @@
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
 |0|0|0|0|1|2|3|
-|4|5|6|7|8|9|10|
+|4|5|6|7|8|9 <br> [DoD Natal/RN](https://www.devopsdays.org/events/2019-natal/welcome/)|10|
 |11|12|13|14|15|16|17|
 |18|19|20|21|22|23|24|
 |25|26|27|28|29|30|31|
@@ -58,7 +58,7 @@
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
 |1|2|3|4|5|6|7|
-|8|9|10|11|12|13 <br> [Roadsec Campinas - SP](https://roadsec.com.br/)|14|
+|8|9|10 <br> [DoD São Paulo/SP](https://www.devopsdays.org/events/2019-sao-paulo/welcome/)|11 <br> [DoD São Paulo/SP](https://www.devopsdays.org/events/2019-sao-paulo/welcome/)|12|13 <br> [Roadsec Campinas - SP](https://roadsec.com.br/)|14|
 |15|16|17|18|19|20|21|
 |22|23 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|24 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|25 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|26 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html)<br> [Python sudeste](https://2019.pythonsudeste.org/)|27 <br> [TDC - SC](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Roadsec Fortaleza - CE](https://roadsec.com.br/)<br> [Python sudeste](https://2019.pythonsudeste.org/)|28<br> Python sudeste|
 |29|30|0|0|0|0|0|
@@ -92,7 +92,7 @@
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
 |0|0|0|0|0|1 <br> [Roadsec Goiânia - GO](https://roadsec.com.br/)|2|
-|3|4|5 <br> [API Experience](http://www.apix.com.br/)|6 <br> [API Experience](http://www.apix.com.br/)|7|8 <br> [Roadsec Presidente Prudente - SP](https://roadsec.com.br/)|9|
+|3|4|5 <br> [API Experience](http://www.apix.com.br/)|6 <br> [API Experience](http://www.apix.com.br/)|7|8 <br> [Roadsec Presidente Prudente - SP](https://roadsec.com.br/) <br> [DoD Aracaju/SE](https://www.devopsdays.org/events/2019-aracaju/welcome/)|9|
 |10|11|12|13 <br> [TDC - BH](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilhas) |14 <br> [TDC - BH](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilhas)|15 <br> [TDC - BH](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilhas) <br> [Roadsec Florianópolis - SC](https://roadsec.com.br/)|16|
 |17|18|19 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|20 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|21 <br> [Campus Party Brasília](https://brasil.campus-party.org/)|22 <br> [Campus Party Brasília](https://brasil.campus-party.org/) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|23 <br> [Campus Party Brasília](https://brasil.campus-party.org/) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|
 |24 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/) |25 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|26 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|27 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/) |28 <br> [TDC - SP](http://www.thedevelopersconference.com.br/tdc/2019/index.html) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|29 <br> [Roadsec Belo Horizonte - MG](https://roadsec.com.br/) <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|30 <br> [Brazil Independent Game Festival (BIG)](http://www.bigfestival.com.br/)|
@@ -128,7 +128,7 @@
 |0|0|0|1 <br> [PGConf Brasil 2019](https://www.pgconf.com.br/2019)|2 <br> [PGConf Brasil 2019](https://www.pgconf.com.br/2019)|3 <br> [PGConf Brasil 2019](https://www.pgconf.com.br/2019)|4|
 |5|6|7|8|9|10|11|
 |12|13|14|15|16 <br> [DevCamp](http://www.devcamp.com.br/)|17|18|
-|19|20|21|22|23|24|25|
+|19|20|21|22|23|24 <br> [DoD Santa Maria/RS](https://www.devopsdays.org/events/2019-santa-maria/welcome/)|25|
 |26|27|28|29|30|31|0|
 
 
