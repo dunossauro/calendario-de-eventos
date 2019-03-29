@@ -110,7 +110,7 @@
 | -|-|-|-|-|-|- |
 |1|2|3|4|5|6|7|
 |8|9|10|11|12|13|14 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|
-|15 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|16 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|17 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|18 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|19|20|21|
+|15 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|16 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|17 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|18 <br> [XXXIX Congresso da Sociedade Brasileira de Computação](http://csbc2019.sbc.org.br/)|19 <br> [Python Nordeste](https://2019.pythonnordeste.org/)|20 <br> [Python Nordeste](https://2019.pythonnordeste.org/)|21 <br> [Python Nordeste](https://2019.pythonnordeste.org/)|
 |22|23|24|25|26|27|28|
 |29|30|31|0|0|0|0|
 
@@ -128,7 +128,7 @@
 |0|0|0|1 <br> [PGConf Brasil 2019](https://www.pgconf.com.br/2019)|2 <br> [PGConf Brasil 2019](https://www.pgconf.com.br/2019)|3 <br> [PGConf Brasil 2019](https://www.pgconf.com.br/2019)|4|
 |5|6|7|8|9|10|11|
 |12|13|14|15|16 <br> [DevCamp](http://www.devcamp.com.br/)|17|18|
-|19|20|21|22|23|24 <br> [DoD Santa Maria/RS](https://www.devopsdays.org/events/2019-santa-maria/welcome/)|25|
+|19|20|21|22|23 <br> [BrazilJS Conf](https://braziljs.org/conf/)|24 <br> [BrazilJS Conf](https://braziljs.org/conf/) <br> [DoD Santa Maria/RS](https://www.devopsdays.org/events/2019-santa-maria/welcome/)|25|
 |26|27|28|29|30|31|0|
 
 
@@ -153,7 +153,7 @@
 
 |Eventos ainda sem data|
 |----------------------|
-|Python Brasil|
+||
 
 
 ###    outubro 2019
@@ -163,8 +163,8 @@
 |0|1|2|3|4|5|6|
 |7|8|9|10|11|12|13|
 |14|15|16 <br> [IT Forum Expo](https://www.itforumexpo.com.br/)|17 <br> [IT Forum Expo](https://www.itforumexpo.com.br/)|18|19|20|
-|21|22|23|24|25|26|27|
-|28|29|30|31|0|0|0|
+|21|22|23 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|24 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|25 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|26 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|27 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|
+|28 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|29|30|31|0|0|0|
 
 
 
