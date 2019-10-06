@@ -74,8 +74,8 @@
 
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
-|0|0|1 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|2 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|3 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|4 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) <br> [Roadsec São José do Rio Preto - SP](https://roadsec.com.br/)|5 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/)|
-|6 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) <br> [QCon São Paulo](https://qconsp.com/)|7 <br> PyCon Cleveland <br> [QCon São Paulo](https://qconsp.com/)|8 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) <br> [QCon São Paulo](https://qconsp.com/)|9 <br> [PyCon Cleveland](https://us.pycon.org/2018/about/) |10|11 <br> [Roadsec Belém - PA](https://roadsec.com.br/)|12|
+|0|0|1 |2 |3 |4 <br> [Roadsec São José do Rio Preto - SP](https://roadsec.com.br/)|5 |
+|6  <br> [QCon São Paulo](https://qconsp.com/)|7 <br> [QCon São Paulo](https://qconsp.com/)|8  <br> [QCon São Paulo](https://qconsp.com/)|9  |10|11 <br> [Roadsec Belém - PA](https://roadsec.com.br/)|12|
 |13|14|15|16|17 <br> [UXConf BR](https://www.uxconf.com.br/)|18 <br> [Roadsec Rio de Janeiro - RJ](https://roadsec.com.br/) <br> [UXConf BR](https://www.uxconf.com.br/)|19|
 |20|21|22|23|24|25 <br> [Roadsec João Pessoa - PB](https://roadsec.com.br/) <br> Elixir Brasil|26 <br> Elixir Brasil|
 |27|28|29|30|31|0|0|
