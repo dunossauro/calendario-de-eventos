@@ -135,7 +135,7 @@
 
 |Eventos ainda sem data|
 |----------------------|
-|Pycon LATAM|
+||
 
 
 ###   setembro 2019
