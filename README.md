@@ -161,7 +161,7 @@
 | se|te|qu|qu|se|sá|do |
 | -|-|-|-|-|-|- |
 |0|1|2|3|4|5|6|
-|7|8|9|10|11|12|13|
+|7|8|9|10 <br> [TDC PE](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|11 <br> [TDC PE](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|12 <br> [TDC PE](http://www.thedevelopersconference.com.br/tdc/2019/index.html)|13|
 |14|15|16 <br> [IT Forum Expo](https://www.itforumexpo.com.br/)|17 <br> [IT Forum Expo](https://www.itforumexpo.com.br/)|18|19|20|
 |21|22|23 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|24 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|25 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|26 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|27 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|
 |28 <br> [Python Brasil](https://2019.pythonbrasil.org.br/)|29|30|31|0|0|0|
